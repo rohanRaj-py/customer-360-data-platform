@@ -1,0 +1,2652 @@
+[
+  {
+    "activity_id": "A00001",
+    "customer_id": 1001,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-01T09:00:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00002",
+    "customer_id": 1002,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-03T12:07:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0014"
+  },
+  {
+    "activity_id": "A00003",
+    "customer_id": 1003,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-05T15:14:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00004",
+    "customer_id": 1004,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-07T18:21:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0040"
+  },
+  {
+    "activity_id": "A00005",
+    "customer_id": 1005,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-01-09T09:28:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0003"
+  },
+  {
+    "activity_id": "A00006",
+    "customer_id": 1006,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-01-11T12:35:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0008",
+    "order_id": 5018
+  },
+  {
+    "activity_id": "A00007",
+    "customer_id": 1007,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-13T15:42:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00008",
+    "customer_id": 1008,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-15T18:49:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0042"
+  },
+  {
+    "activity_id": "A00009",
+    "customer_id": 1009,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-17T09:56:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00010",
+    "customer_id": 1010,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-19T12:03:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0018"
+  },
+  {
+    "activity_id": "A00011",
+    "customer_id": 1011,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-01-21T15:10:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0031"
+  },
+  {
+    "activity_id": "A00012",
+    "customer_id": 1012,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-01-23T18:17:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0050",
+    "order_id": 5036
+  },
+  {
+    "activity_id": "A00013",
+    "customer_id": 1013,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-25T09:24:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00014",
+    "customer_id": 1014,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-27T12:31:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0020"
+  },
+  {
+    "activity_id": "A00015",
+    "customer_id": 1015,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-29T15:38:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00016",
+    "customer_id": 1016,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-31T18:45:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0046"
+  },
+  {
+    "activity_id": "A00017",
+    "customer_id": 1017,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-02T09:52:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0009"
+  },
+  {
+    "activity_id": "A00018",
+    "customer_id": 1018,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-04T12:59:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0042",
+    "order_id": 5054
+  },
+  {
+    "activity_id": "A00019",
+    "customer_id": 1019,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-02-06T15:06:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00020",
+    "customer_id": 1020,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-02-08T18:13:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0048"
+  },
+  {
+    "activity_id": "A00021",
+    "customer_id": 1021,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-02-10T09:20:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00022",
+    "customer_id": 1022,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-02-12T12:27:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0024"
+  },
+  {
+    "activity_id": "A00023",
+    "customer_id": 1023,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-14T15:34:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0037"
+  },
+  {
+    "activity_id": "A00024",
+    "customer_id": 1024,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-16T18:41:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0034",
+    "order_id": 5072
+  },
+  {
+    "activity_id": "A00025",
+    "customer_id": 1025,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-02-18T09:48:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00026",
+    "customer_id": 1026,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-02-20T12:55:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0026"
+  },
+  {
+    "activity_id": "A00027",
+    "customer_id": 1027,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-02-22T15:02:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00028",
+    "customer_id": 1028,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-02-24T18:09:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0002"
+  },
+  {
+    "activity_id": "A00029",
+    "customer_id": 1029,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-26T09:16:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0015"
+  },
+  {
+    "activity_id": "A00030",
+    "customer_id": 1030,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-28T12:23:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0026",
+    "order_id": 5090
+  },
+  {
+    "activity_id": "A00031",
+    "customer_id": 1031,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-02T15:30:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00032",
+    "customer_id": 1032,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-04T18:37:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0004"
+  },
+  {
+    "activity_id": "A00033",
+    "customer_id": 1033,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-06T09:44:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00034",
+    "customer_id": 1034,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-03-08T12:51:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0030"
+  },
+  {
+    "activity_id": "A00035",
+    "customer_id": 1035,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-03-10T15:58:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0043"
+  },
+  {
+    "activity_id": "A00036",
+    "customer_id": 1036,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-03-12T18:05:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0018",
+    "order_id": 5108
+  },
+  {
+    "activity_id": "A00037",
+    "customer_id": 1037,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-14T09:12:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00038",
+    "customer_id": 1038,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-16T12:19:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0032"
+  },
+  {
+    "activity_id": "A00039",
+    "customer_id": 1039,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-18T15:26:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00040",
+    "customer_id": 1040,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-03-20T18:33:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0008"
+  },
+  {
+    "activity_id": "A00041",
+    "customer_id": 1041,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-03-22T09:40:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0021"
+  },
+  {
+    "activity_id": "A00042",
+    "customer_id": 1042,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-03-24T12:47:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0010",
+    "order_id": 5126
+  },
+  {
+    "activity_id": "A00043",
+    "customer_id": 1043,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-26T15:54:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00044",
+    "customer_id": 1044,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-28T18:01:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0010"
+  },
+  {
+    "activity_id": "A00045",
+    "customer_id": 1045,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-30T09:08:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00046",
+    "customer_id": 1046,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-01T12:15:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0036"
+  },
+  {
+    "activity_id": "A00047",
+    "customer_id": 1047,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-03T15:22:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0049"
+  },
+  {
+    "activity_id": "A00048",
+    "customer_id": 1048,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-05T18:29:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0002",
+    "order_id": 5144
+  },
+  {
+    "activity_id": "A00049",
+    "customer_id": 1049,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-04-07T09:36:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00050",
+    "customer_id": 1050,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-04-09T12:43:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0038"
+  },
+  {
+    "activity_id": "A00051",
+    "customer_id": 1001,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-04-11T15:50:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00052",
+    "customer_id": 1002,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-13T18:57:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0014"
+  },
+  {
+    "activity_id": "A00053",
+    "customer_id": 1003,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-15T09:04:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0027"
+  },
+  {
+    "activity_id": "A00054",
+    "customer_id": 1004,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-17T12:11:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0044",
+    "order_id": 5012
+  },
+  {
+    "activity_id": "A00055",
+    "customer_id": 1005,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-04-19T15:18:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00056",
+    "customer_id": 1006,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-04-21T18:25:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0016"
+  },
+  {
+    "activity_id": "A00057",
+    "customer_id": 1007,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-04-23T09:32:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00058",
+    "customer_id": 1008,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-25T12:39:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0042"
+  },
+  {
+    "activity_id": "A00059",
+    "customer_id": 1009,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-27T15:46:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0005"
+  },
+  {
+    "activity_id": "A00060",
+    "customer_id": 1010,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-29T18:53:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0036",
+    "order_id": 5030
+  },
+  {
+    "activity_id": "A00061",
+    "customer_id": 1011,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-05-01T09:00:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00062",
+    "customer_id": 1012,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-05-03T12:07:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0044"
+  },
+  {
+    "activity_id": "A00063",
+    "customer_id": 1013,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-05-05T15:14:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00064",
+    "customer_id": 1014,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-05-07T18:21:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0020"
+  },
+  {
+    "activity_id": "A00065",
+    "customer_id": 1015,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-05-09T09:28:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0033"
+  },
+  {
+    "activity_id": "A00066",
+    "customer_id": 1016,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-05-11T12:35:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0028",
+    "order_id": 5048
+  },
+  {
+    "activity_id": "A00067",
+    "customer_id": 1017,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-05-13T15:42:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00068",
+    "customer_id": 1018,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-05-15T18:49:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0022"
+  },
+  {
+    "activity_id": "A00069",
+    "customer_id": 1019,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-05-17T09:56:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00070",
+    "customer_id": 1020,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-05-19T12:03:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0048"
+  },
+  {
+    "activity_id": "A00071",
+    "customer_id": 1021,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-05-21T15:10:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0011"
+  },
+  {
+    "activity_id": "A00072",
+    "customer_id": 1022,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-05-23T18:17:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0020",
+    "order_id": 5066
+  },
+  {
+    "activity_id": "A00073",
+    "customer_id": 1023,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-05-25T09:24:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00074",
+    "customer_id": 1024,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-05-27T12:31:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0050"
+  },
+  {
+    "activity_id": "A00075",
+    "customer_id": 1025,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-05-29T15:38:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00076",
+    "customer_id": 1026,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-05-31T18:45:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0026"
+  },
+  {
+    "activity_id": "A00077",
+    "customer_id": 1027,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-06-02T09:52:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0039"
+  },
+  {
+    "activity_id": "A00078",
+    "customer_id": 1028,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-06-04T12:59:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0012",
+    "order_id": 5084
+  },
+  {
+    "activity_id": "A00079",
+    "customer_id": 1029,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-06-06T15:06:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00080",
+    "customer_id": 1030,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-06-08T18:13:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0028"
+  },
+  {
+    "activity_id": "A00081",
+    "customer_id": 1031,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-06-10T09:20:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00082",
+    "customer_id": 1032,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-06-12T12:27:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0004"
+  },
+  {
+    "activity_id": "A00083",
+    "customer_id": 1033,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-06-14T15:34:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0017"
+  },
+  {
+    "activity_id": "A00084",
+    "customer_id": 1034,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-06-16T18:41:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0004",
+    "order_id": 5102
+  },
+  {
+    "activity_id": "A00085",
+    "customer_id": 1035,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-06-18T09:48:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00086",
+    "customer_id": 1036,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-06-20T12:55:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0006"
+  },
+  {
+    "activity_id": "A00087",
+    "customer_id": 1037,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-06-22T15:02:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00088",
+    "customer_id": 1038,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-06-24T18:09:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0032"
+  },
+  {
+    "activity_id": "A00089",
+    "customer_id": 1039,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-06-26T09:16:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0045"
+  },
+  {
+    "activity_id": "A00090",
+    "customer_id": 1040,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-06-28T12:23:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0046",
+    "order_id": 5120
+  },
+  {
+    "activity_id": "A00091",
+    "customer_id": 1041,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-06-30T15:30:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00092",
+    "customer_id": 1042,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-07-02T18:37:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0034"
+  },
+  {
+    "activity_id": "A00093",
+    "customer_id": 1043,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-07-04T09:44:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00094",
+    "customer_id": 1044,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-07-06T12:51:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0010"
+  },
+  {
+    "activity_id": "A00095",
+    "customer_id": 1045,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-07-08T15:58:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0023"
+  },
+  {
+    "activity_id": "A00096",
+    "customer_id": 1046,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-07-10T18:05:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0038",
+    "order_id": 5138
+  },
+  {
+    "activity_id": "A00097",
+    "customer_id": 1047,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-07-12T09:12:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00098",
+    "customer_id": 1048,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-07-14T12:19:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0012"
+  },
+  {
+    "activity_id": "A00099",
+    "customer_id": 1049,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-07-16T15:26:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00100",
+    "customer_id": 1050,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-07-18T18:33:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0038"
+  },
+  {
+    "activity_id": "A00101",
+    "customer_id": 1001,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-07-20T09:40:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0001"
+  },
+  {
+    "activity_id": "A00102",
+    "customer_id": 1002,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-07-22T12:47:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0030",
+    "order_id": 5006
+  },
+  {
+    "activity_id": "A00103",
+    "customer_id": 1003,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-07-24T15:54:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00104",
+    "customer_id": 1004,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-07-26T18:01:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0040"
+  },
+  {
+    "activity_id": "A00105",
+    "customer_id": 1005,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-07-28T09:08:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00106",
+    "customer_id": 1006,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-07-30T12:15:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0016"
+  },
+  {
+    "activity_id": "A00107",
+    "customer_id": 1007,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-08-01T15:22:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0029"
+  },
+  {
+    "activity_id": "A00108",
+    "customer_id": 1008,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-08-03T18:29:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0022",
+    "order_id": 5024
+  },
+  {
+    "activity_id": "A00109",
+    "customer_id": 1009,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-08-05T09:36:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00110",
+    "customer_id": 1010,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-08-07T12:43:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0018"
+  },
+  {
+    "activity_id": "A00111",
+    "customer_id": 1011,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-08-09T15:50:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00112",
+    "customer_id": 1012,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-08-11T18:57:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0044"
+  },
+  {
+    "activity_id": "A00113",
+    "customer_id": 1013,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-08-13T09:04:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0007"
+  },
+  {
+    "activity_id": "A00114",
+    "customer_id": 1014,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-08-15T12:11:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0014",
+    "order_id": 5042
+  },
+  {
+    "activity_id": "A00115",
+    "customer_id": 1015,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-08-17T15:18:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00116",
+    "customer_id": 1016,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-08-19T18:25:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0046"
+  },
+  {
+    "activity_id": "A00117",
+    "customer_id": 1017,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-08-21T09:32:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00118",
+    "customer_id": 1018,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-08-23T12:39:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0022"
+  },
+  {
+    "activity_id": "A00119",
+    "customer_id": 1019,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-08-25T15:46:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0035"
+  },
+  {
+    "activity_id": "A00120",
+    "customer_id": 1020,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-08-27T18:53:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0006",
+    "order_id": 5060
+  },
+  {
+    "activity_id": "A00121",
+    "customer_id": 1021,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-01T09:00:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00122",
+    "customer_id": 1022,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-03T12:07:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0024"
+  },
+  {
+    "activity_id": "A00123",
+    "customer_id": 1023,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-05T15:14:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00124",
+    "customer_id": 1024,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-07T18:21:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0050"
+  },
+  {
+    "activity_id": "A00125",
+    "customer_id": 1025,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-01-09T09:28:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0013"
+  },
+  {
+    "activity_id": "A00126",
+    "customer_id": 1026,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-01-11T12:35:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0048",
+    "order_id": 5078
+  },
+  {
+    "activity_id": "A00127",
+    "customer_id": 1027,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-13T15:42:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00128",
+    "customer_id": 1028,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-15T18:49:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0002"
+  },
+  {
+    "activity_id": "A00129",
+    "customer_id": 1029,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-17T09:56:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00130",
+    "customer_id": 1030,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-19T12:03:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0028"
+  },
+  {
+    "activity_id": "A00131",
+    "customer_id": 1031,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-01-21T15:10:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0041"
+  },
+  {
+    "activity_id": "A00132",
+    "customer_id": 1032,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-01-23T18:17:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0040",
+    "order_id": 5096
+  },
+  {
+    "activity_id": "A00133",
+    "customer_id": 1033,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-25T09:24:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00134",
+    "customer_id": 1034,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-27T12:31:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0030"
+  },
+  {
+    "activity_id": "A00135",
+    "customer_id": 1035,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-29T15:38:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00136",
+    "customer_id": 1036,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-31T18:45:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0006"
+  },
+  {
+    "activity_id": "A00137",
+    "customer_id": 1037,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-02T09:52:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0019"
+  },
+  {
+    "activity_id": "A00138",
+    "customer_id": 1038,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-04T12:59:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0032",
+    "order_id": 5114
+  },
+  {
+    "activity_id": "A00139",
+    "customer_id": 1039,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-02-06T15:06:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00140",
+    "customer_id": 1040,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-02-08T18:13:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0008"
+  },
+  {
+    "activity_id": "A00141",
+    "customer_id": 1041,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-02-10T09:20:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00142",
+    "customer_id": 1042,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-02-12T12:27:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0034"
+  },
+  {
+    "activity_id": "A00143",
+    "customer_id": 1043,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-14T15:34:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0047"
+  },
+  {
+    "activity_id": "A00144",
+    "customer_id": 1044,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-16T18:41:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0024",
+    "order_id": 5132
+  },
+  {
+    "activity_id": "A00145",
+    "customer_id": 1045,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-02-18T09:48:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00146",
+    "customer_id": 1046,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-02-20T12:55:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0036"
+  },
+  {
+    "activity_id": "A00147",
+    "customer_id": 1047,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-02-22T15:02:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00148",
+    "customer_id": 1048,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-02-24T18:09:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0012"
+  },
+  {
+    "activity_id": "A00149",
+    "customer_id": 1049,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-26T09:16:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0025"
+  },
+  {
+    "activity_id": "A00150",
+    "customer_id": 1050,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-28T12:23:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0016",
+    "order_id": 5150
+  },
+  {
+    "activity_id": "A00151",
+    "customer_id": 1001,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-02T15:30:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00152",
+    "customer_id": 1002,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-04T18:37:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0014"
+  },
+  {
+    "activity_id": "A00153",
+    "customer_id": 1003,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-06T09:44:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00154",
+    "customer_id": 1004,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-03-08T12:51:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0040"
+  },
+  {
+    "activity_id": "A00155",
+    "customer_id": 1005,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-03-10T15:58:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0003"
+  },
+  {
+    "activity_id": "A00156",
+    "customer_id": 1006,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-03-12T18:05:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0008",
+    "order_id": 5018
+  },
+  {
+    "activity_id": "A00157",
+    "customer_id": 1007,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-14T09:12:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00158",
+    "customer_id": 1008,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-16T12:19:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0042"
+  },
+  {
+    "activity_id": "A00159",
+    "customer_id": 1009,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-18T15:26:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00160",
+    "customer_id": 1010,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-03-20T18:33:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0018"
+  },
+  {
+    "activity_id": "A00161",
+    "customer_id": 1011,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-03-22T09:40:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0031"
+  },
+  {
+    "activity_id": "A00162",
+    "customer_id": 1012,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-03-24T12:47:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0050",
+    "order_id": 5036
+  },
+  {
+    "activity_id": "A00163",
+    "customer_id": 1013,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-26T15:54:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00164",
+    "customer_id": 1014,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-28T18:01:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0020"
+  },
+  {
+    "activity_id": "A00165",
+    "customer_id": 1015,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-30T09:08:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00166",
+    "customer_id": 1016,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-01T12:15:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0046"
+  },
+  {
+    "activity_id": "A00167",
+    "customer_id": 1017,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-03T15:22:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0009"
+  },
+  {
+    "activity_id": "A00168",
+    "customer_id": 1018,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-05T18:29:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0042",
+    "order_id": 5054
+  },
+  {
+    "activity_id": "A00169",
+    "customer_id": 1019,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-04-07T09:36:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00170",
+    "customer_id": 1020,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-04-09T12:43:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0048"
+  },
+  {
+    "activity_id": "A00171",
+    "customer_id": 1021,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-04-11T15:50:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00172",
+    "customer_id": 1022,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-13T18:57:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0024"
+  },
+  {
+    "activity_id": "A00173",
+    "customer_id": 1023,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-15T09:04:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0037"
+  },
+  {
+    "activity_id": "A00174",
+    "customer_id": 1024,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-17T12:11:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0034",
+    "order_id": 5072
+  },
+  {
+    "activity_id": "A00175",
+    "customer_id": 1025,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-04-19T15:18:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00176",
+    "customer_id": 1026,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-04-21T18:25:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0026"
+  },
+  {
+    "activity_id": "A00177",
+    "customer_id": 1027,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-04-23T09:32:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00178",
+    "customer_id": 1028,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-25T12:39:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0002"
+  },
+  {
+    "activity_id": "A00179",
+    "customer_id": 1029,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-27T15:46:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0015"
+  },
+  {
+    "activity_id": "A00180",
+    "customer_id": 1030,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-29T18:53:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0026",
+    "order_id": 5090
+  },
+  {
+    "activity_id": "A00181",
+    "customer_id": 1031,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-05-01T09:00:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00182",
+    "customer_id": 1032,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-05-03T12:07:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0004"
+  },
+  {
+    "activity_id": "A00183",
+    "customer_id": 1033,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-05-05T15:14:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00184",
+    "customer_id": 1034,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-05-07T18:21:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0030"
+  },
+  {
+    "activity_id": "A00185",
+    "customer_id": 1035,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-05-09T09:28:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0043"
+  },
+  {
+    "activity_id": "A00186",
+    "customer_id": 1036,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-05-11T12:35:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0018",
+    "order_id": 5108
+  },
+  {
+    "activity_id": "A00187",
+    "customer_id": 1037,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-05-13T15:42:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00188",
+    "customer_id": 1038,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-05-15T18:49:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0032"
+  },
+  {
+    "activity_id": "A00189",
+    "customer_id": 1039,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-05-17T09:56:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00190",
+    "customer_id": 1040,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-05-19T12:03:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0008"
+  },
+  {
+    "activity_id": "A00191",
+    "customer_id": 1041,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-05-21T15:10:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0021"
+  },
+  {
+    "activity_id": "A00192",
+    "customer_id": 1042,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-05-23T18:17:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0010",
+    "order_id": 5126
+  },
+  {
+    "activity_id": "A00193",
+    "customer_id": 1043,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-05-25T09:24:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00194",
+    "customer_id": 1044,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-05-27T12:31:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0010"
+  },
+  {
+    "activity_id": "A00195",
+    "customer_id": 1045,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-05-29T15:38:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00196",
+    "customer_id": 1046,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-05-31T18:45:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0036"
+  },
+  {
+    "activity_id": "A00197",
+    "customer_id": 1047,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-06-02T09:52:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0049"
+  },
+  {
+    "activity_id": "A00198",
+    "customer_id": 1048,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-06-04T12:59:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0002",
+    "order_id": 5144
+  },
+  {
+    "activity_id": "A00199",
+    "customer_id": 1049,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-06-06T15:06:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00200",
+    "customer_id": 1050,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-06-08T18:13:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0038"
+  },
+  {
+    "activity_id": "A00201",
+    "customer_id": 1001,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-06-10T09:20:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00202",
+    "customer_id": 1002,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-06-12T12:27:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0014"
+  },
+  {
+    "activity_id": "A00203",
+    "customer_id": 1003,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-06-14T15:34:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0027"
+  },
+  {
+    "activity_id": "A00204",
+    "customer_id": 1004,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-06-16T18:41:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0044",
+    "order_id": 5012
+  },
+  {
+    "activity_id": "A00205",
+    "customer_id": 1005,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-06-18T09:48:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00206",
+    "customer_id": 1006,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-06-20T12:55:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0016"
+  },
+  {
+    "activity_id": "A00207",
+    "customer_id": 1007,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-06-22T15:02:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00208",
+    "customer_id": 1008,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-06-24T18:09:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0042"
+  },
+  {
+    "activity_id": "A00209",
+    "customer_id": 1009,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-06-26T09:16:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0005"
+  },
+  {
+    "activity_id": "A00210",
+    "customer_id": 1010,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-06-28T12:23:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0036",
+    "order_id": 5030
+  },
+  {
+    "activity_id": "A00211",
+    "customer_id": 1011,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-06-30T15:30:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00212",
+    "customer_id": 1012,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-07-02T18:37:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0044"
+  },
+  {
+    "activity_id": "A00213",
+    "customer_id": 1013,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-07-04T09:44:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00214",
+    "customer_id": 1014,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-07-06T12:51:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0020"
+  },
+  {
+    "activity_id": "A00215",
+    "customer_id": 1015,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-07-08T15:58:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0033"
+  },
+  {
+    "activity_id": "A00216",
+    "customer_id": 1016,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-07-10T18:05:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0028",
+    "order_id": 5048
+  },
+  {
+    "activity_id": "A00217",
+    "customer_id": 1017,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-07-12T09:12:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00218",
+    "customer_id": 1018,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-07-14T12:19:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0022"
+  },
+  {
+    "activity_id": "A00219",
+    "customer_id": 1019,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-07-16T15:26:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00220",
+    "customer_id": 1020,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-07-18T18:33:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0048"
+  },
+  {
+    "activity_id": "A00221",
+    "customer_id": 1021,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-07-20T09:40:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0011"
+  },
+  {
+    "activity_id": "A00222",
+    "customer_id": 1022,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-07-22T12:47:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0020",
+    "order_id": 5066
+  },
+  {
+    "activity_id": "A00223",
+    "customer_id": 1023,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-07-24T15:54:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00224",
+    "customer_id": 1024,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-07-26T18:01:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0050"
+  },
+  {
+    "activity_id": "A00225",
+    "customer_id": 1025,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-07-28T09:08:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00226",
+    "customer_id": 1026,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-07-30T12:15:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0026"
+  },
+  {
+    "activity_id": "A00227",
+    "customer_id": 1027,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-08-01T15:22:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0039"
+  },
+  {
+    "activity_id": "A00228",
+    "customer_id": 1028,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-08-03T18:29:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0012",
+    "order_id": 5084
+  },
+  {
+    "activity_id": "A00229",
+    "customer_id": 1029,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-08-05T09:36:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00230",
+    "customer_id": 1030,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-08-07T12:43:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0028"
+  },
+  {
+    "activity_id": "A00231",
+    "customer_id": 1031,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-08-09T15:50:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00232",
+    "customer_id": 1032,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-08-11T18:57:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0004"
+  },
+  {
+    "activity_id": "A00233",
+    "customer_id": 1033,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-08-13T09:04:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0017"
+  },
+  {
+    "activity_id": "A00234",
+    "customer_id": 1034,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-08-15T12:11:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0004",
+    "order_id": 5102
+  },
+  {
+    "activity_id": "A00235",
+    "customer_id": 1035,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-08-17T15:18:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00236",
+    "customer_id": 1036,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-08-19T18:25:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0006"
+  },
+  {
+    "activity_id": "A00237",
+    "customer_id": 1037,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-08-21T09:32:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00238",
+    "customer_id": 1038,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-08-23T12:39:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0032"
+  },
+  {
+    "activity_id": "A00239",
+    "customer_id": 1039,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-08-25T15:46:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0045"
+  },
+  {
+    "activity_id": "A00240",
+    "customer_id": 1040,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-08-27T18:53:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0046",
+    "order_id": 5120
+  },
+  {
+    "activity_id": "A00241",
+    "customer_id": 1041,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-01T09:00:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00242",
+    "customer_id": 1042,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-03T12:07:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0034"
+  },
+  {
+    "activity_id": "A00243",
+    "customer_id": 1043,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-05T15:14:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00244",
+    "customer_id": 1044,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-07T18:21:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0010"
+  },
+  {
+    "activity_id": "A00245",
+    "customer_id": 1045,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-01-09T09:28:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0023"
+  },
+  {
+    "activity_id": "A00246",
+    "customer_id": 1046,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-01-11T12:35:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0038",
+    "order_id": 5138
+  },
+  {
+    "activity_id": "A00247",
+    "customer_id": 1047,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-13T15:42:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00248",
+    "customer_id": 1048,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-15T18:49:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0012"
+  },
+  {
+    "activity_id": "A00249",
+    "customer_id": 1049,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-17T09:56:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00250",
+    "customer_id": 1050,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-19T12:03:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0038"
+  },
+  {
+    "activity_id": "A00251",
+    "customer_id": 1001,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-01-21T15:10:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0001"
+  },
+  {
+    "activity_id": "A00252",
+    "customer_id": 1002,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-01-23T18:17:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0030",
+    "order_id": 5006
+  },
+  {
+    "activity_id": "A00253",
+    "customer_id": 1003,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-01-25T09:24:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00254",
+    "customer_id": 1004,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-01-27T12:31:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0040"
+  },
+  {
+    "activity_id": "A00255",
+    "customer_id": 1005,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-01-29T15:38:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00256",
+    "customer_id": 1006,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-01-31T18:45:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0016"
+  },
+  {
+    "activity_id": "A00257",
+    "customer_id": 1007,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-02T09:52:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0029"
+  },
+  {
+    "activity_id": "A00258",
+    "customer_id": 1008,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-04T12:59:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0022",
+    "order_id": 5024
+  },
+  {
+    "activity_id": "A00259",
+    "customer_id": 1009,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-02-06T15:06:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00260",
+    "customer_id": 1010,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-02-08T18:13:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0018"
+  },
+  {
+    "activity_id": "A00261",
+    "customer_id": 1011,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-02-10T09:20:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00262",
+    "customer_id": 1012,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-02-12T12:27:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0044"
+  },
+  {
+    "activity_id": "A00263",
+    "customer_id": 1013,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-14T15:34:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0007"
+  },
+  {
+    "activity_id": "A00264",
+    "customer_id": 1014,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-16T18:41:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0014",
+    "order_id": 5042
+  },
+  {
+    "activity_id": "A00265",
+    "customer_id": 1015,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-02-18T09:48:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00266",
+    "customer_id": 1016,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-02-20T12:55:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0046"
+  },
+  {
+    "activity_id": "A00267",
+    "customer_id": 1017,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-02-22T15:02:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00268",
+    "customer_id": 1018,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-02-24T18:09:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0022"
+  },
+  {
+    "activity_id": "A00269",
+    "customer_id": 1019,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-02-26T09:16:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0035"
+  },
+  {
+    "activity_id": "A00270",
+    "customer_id": 1020,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-02-28T12:23:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0006",
+    "order_id": 5060
+  },
+  {
+    "activity_id": "A00271",
+    "customer_id": 1021,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-02T15:30:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00272",
+    "customer_id": 1022,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-04T18:37:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0024"
+  },
+  {
+    "activity_id": "A00273",
+    "customer_id": 1023,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-06T09:44:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00274",
+    "customer_id": 1024,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-03-08T12:51:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0050"
+  },
+  {
+    "activity_id": "A00275",
+    "customer_id": 1025,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-03-10T15:58:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0013"
+  },
+  {
+    "activity_id": "A00276",
+    "customer_id": 1026,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-03-12T18:05:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0048",
+    "order_id": 5078
+  },
+  {
+    "activity_id": "A00277",
+    "customer_id": 1027,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-14T09:12:00",
+    "device": "Mobile",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00278",
+    "customer_id": 1028,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-16T12:19:00",
+    "device": "Desktop",
+    "page": "Wishlist",
+    "product_id": "P0002"
+  },
+  {
+    "activity_id": "A00279",
+    "customer_id": 1029,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-18T15:26:00",
+    "device": "Tablet",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00280",
+    "customer_id": 1030,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-03-20T18:33:00",
+    "device": "Mobile",
+    "page": "Order_History",
+    "product_id": "P0028"
+  },
+  {
+    "activity_id": "A00281",
+    "customer_id": 1031,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-03-22T09:40:00",
+    "device": "Desktop",
+    "page": "Home",
+    "product_id": "P0041"
+  },
+  {
+    "activity_id": "A00282",
+    "customer_id": 1032,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-03-24T12:47:00",
+    "device": "Tablet",
+    "page": "Products",
+    "product_id": "P0040",
+    "order_id": 5096
+  },
+  {
+    "activity_id": "A00283",
+    "customer_id": 1033,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-03-26T15:54:00",
+    "device": "Mobile",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00284",
+    "customer_id": 1034,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-03-28T18:01:00",
+    "device": "Desktop",
+    "page": "Search",
+    "product_id": "P0030"
+  },
+  {
+    "activity_id": "A00285",
+    "customer_id": 1035,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-03-30T09:08:00",
+    "device": "Tablet",
+    "page": "Cart"
+  },
+  {
+    "activity_id": "A00286",
+    "customer_id": 1036,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-01T12:15:00",
+    "device": "Mobile",
+    "page": "Wishlist",
+    "product_id": "P0006"
+  },
+  {
+    "activity_id": "A00287",
+    "customer_id": 1037,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-03T15:22:00",
+    "device": "Desktop",
+    "page": "Checkout",
+    "product_id": "P0019"
+  },
+  {
+    "activity_id": "A00288",
+    "customer_id": 1038,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-05T18:29:00",
+    "device": "Tablet",
+    "page": "Order_History",
+    "product_id": "P0032",
+    "order_id": 5114
+  },
+  {
+    "activity_id": "A00289",
+    "customer_id": 1039,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-04-07T09:36:00",
+    "device": "Mobile",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00290",
+    "customer_id": 1040,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-04-09T12:43:00",
+    "device": "Desktop",
+    "page": "Products",
+    "product_id": "P0008"
+  },
+  {
+    "activity_id": "A00291",
+    "customer_id": 1041,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-04-11T15:50:00",
+    "device": "Tablet",
+    "page": "Product_Details"
+  },
+  {
+    "activity_id": "A00292",
+    "customer_id": 1042,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-13T18:57:00",
+    "device": "Mobile",
+    "page": "Search",
+    "product_id": "P0034"
+  },
+  {
+    "activity_id": "A00293",
+    "customer_id": 1043,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-15T09:04:00",
+    "device": "Desktop",
+    "page": "Cart",
+    "product_id": "P0047"
+  },
+  {
+    "activity_id": "A00294",
+    "customer_id": 1044,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-17T12:11:00",
+    "device": "Tablet",
+    "page": "Wishlist",
+    "product_id": "P0024",
+    "order_id": 5132
+  },
+  {
+    "activity_id": "A00295",
+    "customer_id": 1045,
+    "activity_type": "Login",
+    "activity_timestamp": "2026-04-19T15:18:00",
+    "device": "Mobile",
+    "page": "Checkout"
+  },
+  {
+    "activity_id": "A00296",
+    "customer_id": 1046,
+    "activity_type": "Product_View",
+    "activity_timestamp": "2026-04-21T18:25:00",
+    "device": "Desktop",
+    "page": "Order_History",
+    "product_id": "P0036"
+  },
+  {
+    "activity_id": "A00297",
+    "customer_id": 1047,
+    "activity_type": "Search",
+    "activity_timestamp": "2026-04-23T09:32:00",
+    "device": "Tablet",
+    "page": "Home"
+  },
+  {
+    "activity_id": "A00298",
+    "customer_id": 1048,
+    "activity_type": "Add_to_Cart",
+    "activity_timestamp": "2026-04-25T12:39:00",
+    "device": "Mobile",
+    "page": "Products",
+    "product_id": "P0012"
+  },
+  {
+    "activity_id": "A00299",
+    "customer_id": 1049,
+    "activity_type": "Wishlist",
+    "activity_timestamp": "2026-04-27T15:46:00",
+    "device": "Desktop",
+    "page": "Product_Details",
+    "product_id": "P0025"
+  },
+  {
+    "activity_id": "A00300",
+    "customer_id": 1050,
+    "activity_type": "Purchase",
+    "activity_timestamp": "2026-04-29T18:53:00",
+    "device": "Tablet",
+    "page": "Search",
+    "product_id": "P0016",
+    "order_id": 5150
+  }
+]
