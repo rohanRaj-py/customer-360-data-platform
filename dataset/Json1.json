@@ -1,0 +1,18 @@
+{
+	"name": "Json1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_GIT_BRONZE_SOURCE",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "rohanRaj-py/customer-360-data-platform/blob/main/data/activity/customer_activity.json"
+			}
+		},
+		"schema": {}
+	}
+}
