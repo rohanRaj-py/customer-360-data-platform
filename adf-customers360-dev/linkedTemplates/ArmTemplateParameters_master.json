@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-customers360-dev"
+		},
+		"LS_SQL_ADLS_DESTINATION_accountKey": {
+			"value": ""
+		},
+		"LS_SQL_BRONZE_password": {
+			"value": ""
+		},
+		"LS_GIT_BRONZE_SOURCE_properties_typeProperties_url": {
+			"value": "https://github.com/"
+		},
+		"LS_GIT_BRONZE_SR_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"LS_SQL_ADLS_DESTINATION_properties_typeProperties_url": {
+			"value": "https://stcustomers360dev01.dfs.core.windows.net/"
+		},
+		"LS_SQL_BRONZE_properties_typeProperties_server": {
+			"value": "sql-customer360-dev.database.windows.net"
+		},
+		"LS_SQL_BRONZE_properties_typeProperties_database": {
+			"value": "Customer360DB"
+		},
+		"LS_SQL_BRONZE_properties_typeProperties_userName": {
+			"value": "raj"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
