@@ -1,5 +1,5 @@
 {
-	"name": "PL_SQL_To_Bronze",
+	"name": "PL_SQL_GIT_BRONZE",
 	"properties": {
 		"activities": [
 			{
@@ -43,13 +43,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "ds_src_sql_orders",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "ds_dest_sql_orders",
 						"type": "DatasetReference"
 					}
 				]
@@ -102,13 +102,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "AzureSqlTable2",
+						"referenceName": "ds_src_sql_customers",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText2",
+						"referenceName": "ds_dest_sql_customers",
 						"type": "DatasetReference"
 					}
 				]
@@ -157,13 +157,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Json3",
+						"referenceName": "ds_src_json_activity",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "Json2",
+						"referenceName": "ds_dest_json_activity",
 						"type": "DatasetReference"
 					}
 				]
@@ -212,13 +212,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Json4",
+						"referenceName": "ds_src_json_feedback",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "Json5",
+						"referenceName": "ds_dest_json_feedback",
 						"type": "DatasetReference"
 					}
 				]

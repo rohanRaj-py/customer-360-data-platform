@@ -1,5 +1,5 @@
 {
-	"name": "Json5",
+	"name": "ds_dest_json_feedback",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_SQL_ADLS_DESTINATION",

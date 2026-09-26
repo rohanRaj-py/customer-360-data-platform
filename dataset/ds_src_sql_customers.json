@@ -1,5 +1,5 @@
 {
-	"name": "AzureSqlTable2",
+	"name": "ds_src_sql_customers",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_SQL_BRONZE",

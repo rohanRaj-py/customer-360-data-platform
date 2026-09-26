@@ -1,5 +1,5 @@
 {
-	"name": "AzureSqlTable1",
+	"name": "ds_src_sql_orders",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_SQL_BRONZE",

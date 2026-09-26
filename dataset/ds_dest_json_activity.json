@@ -1,5 +1,5 @@
 {
-	"name": "Json2",
+	"name": "ds_dest_json_activity",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_SQL_ADLS_DESTINATION",

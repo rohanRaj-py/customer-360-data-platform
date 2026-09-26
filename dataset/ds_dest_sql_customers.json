@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText2",
+	"name": "ds_dest_sql_customers",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_SQL_ADLS_DESTINATION",

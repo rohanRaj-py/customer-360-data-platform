@@ -1,5 +1,5 @@
 {
-	"name": "Json4",
+	"name": "ds_src_json_feedback",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_GIT_BRONZE_SR",

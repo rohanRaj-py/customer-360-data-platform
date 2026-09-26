@@ -1,5 +1,5 @@
 {
-	"name": "Json3",
+	"name": "ds_src_json_activity",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_GIT_BRONZE_SR",
