@@ -19,6 +19,7 @@ for analytics and visualization**.
 
 ## 🏗️ Architecture
 
+![Customer 360 Architecture](architecture/customer-360-data-flow.png)
 ``` text
                     ┌─────────────────────┐
                     │   Data Sources      │
@@ -318,97 +319,6 @@ customer-360-data-platform/
 
 ------------------------------------------------------------------------
 
-## 📊 Customer 360 Concept
-
-The purpose of Customer 360 is to bring customer-related information
-from different systems together.
-
-For example:
-
-``` text
-Customer
-   │
-   ├── Orders
-   │     └── Products
-   │
-   ├── Feedback
-   │
-   ├── Activity
-   │
-   └── Store
-```
-
-This allows the business to understand:
-
--   Who the customer is
--   What the customer purchased
--   How much the customer spent
--   Which products the customer purchased
--   Which store they used
--   What feedback they provided
--   How they interact with the business
-
-------------------------------------------------------------------------
-
-## 🔁 Incremental Data Flow
-
-For incremental loading, the pipeline checks for new or modified records
-using a suitable column such as:
-
-``` text
-last_modified_date
-```
-
-The general flow is:
-
-``` text
-Source Database
-      ↓
-Lookup Last Loaded Value
-      ↓
-Filter New/Updated Records
-      ↓
-Copy Activity
-      ↓
-ADLS Gen2 Bronze
-      ↓
-Databricks
-      ↓
-Silver Delta Table
-      ↓
-Gold Delta Table
-      ↓
-Power BI
-```
-
-This prevents unnecessary full loads.
-
-------------------------------------------------------------------------
-
-## 🛠️ Example PySpark Operations
-
-Typical transformations performed in Databricks include:
-
-``` python
-from pyspark.sql.functions import col, trim
-
-df_clean = (
-    df
-    .dropDuplicates()
-    .withColumn("customer_name", trim(col("customer_name")))
-)
-```
-
-Example of writing a Delta table:
-
-``` python
-df_clean.write \
-    .format("delta") \
-    .mode("overwrite") \
-    .saveAsTable("customer_360.silver.customers")
-```
-
-------------------------------------------------------------------------
 
 ## 📈 Business Value
 
