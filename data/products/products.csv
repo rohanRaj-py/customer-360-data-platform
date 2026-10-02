@@ -1,0 +1,51 @@
+product_id,product_name,brand,category,unit_price
+P0001,Dell Inspiron 15,Dell,Electronics,55000.0
+P0002,Wireless Mouse,Logitech,Electronics,1200.0
+P0003,Mechanical Keyboard,Redragon,Electronics,3500.0
+P0004,Bluetooth Speaker,JBL,Electronics,7500.0
+P0005,Samsung 55 Inch TV,Samsung,Electronics,42000.0
+P0006,USB-C Cable,Anker,Electronics,850.0
+P0007,Smart Watch,Noise,Electronics,6500.0
+P0008,Power Bank,Mi,Electronics,1500.0
+P0009,iPhone 15,Apple,Electronics,28000.0
+P0010,Mobile Cover,Spigen,Electronics,2200.0
+P0011,Air Purifier,Philips,Home,18000.0
+P0012,Table Lamp,Philips,Home,3200.0
+P0013,Office Chair,Green Soul,Home,7500.0
+P0014,Refrigerator,LG,Home,45000.0
+P0015,Storage Box Set,Home Centre,Home,950.0
+P0016,Microwave Oven,LG,Home,12500.0
+P0017,Non Stick Pan,Prestige,Home,5500.0
+P0018,Bedsheet Set,Wakefit,Home,1200.0
+P0019,Washing Machine,Samsung,Home,30000.0
+P0020,Electric Kettle,Prestige,Home,2200.0
+P0021,Running Shoes,Nike,Fashion,7800.0
+P0022,Denim Jacket,Levis,Fashion,15500.0
+P0023,Casual Shirt,Peter England,Fashion,1800.0
+P0024,Jeans,Wrangler,Fashion,6200.0
+P0025,Leather Jacket,Woodland,Fashion,27500.0
+P0026,Cotton T-Shirt,Puma,Fashion,950.0
+P0027,Sports Shoes,Adidas,Fashion,11000.0
+P0028,Winter Jacket,Puma,Fashion,48000.0
+P0029,Sunglasses,Ray-Ban,Fashion,1750.0
+P0030,Backpack,Wildcraft,Fashion,8900.0
+P0031,Face Wash,Nivea,Beauty,3200.0
+P0032,Shampoo,Dove,Beauty,4500.0
+P0033,Perfume,Calvin Klein,Beauty,18000.0
+P0034,Lip Balm,Nivea,Beauty,750.0
+P0035,Body Lotion,Vaseline,Beauty,9500.0
+P0036,Hair Dryer,Philips,Beauty,12500.0
+P0037,Face Cream,Lakme,Beauty,650.0
+P0038,Sunscreen,Neutrogena,Beauty,2800.0
+P0039,Beard Trimmer,Philips,Beauty,4200.0
+P0040,Makeup Kit,Maybelline,Beauty,11500.0
+P0041,Basmati Rice 5kg,India Gate,Grocery,22000.0
+P0042,Wheat Flour 5kg,Aashirvaad,Grocery,1400.0
+P0043,Cooking Oil 5L,Fortune,Grocery,6800.0
+P0044,Green Tea,Lipton,Grocery,3500.0
+P0045,Coffee 500g,Nescafe,Grocery,2100.0
+P0046,Dry Fruits Pack,Happilo,Grocery,16000.0
+P0047,Oats 1kg,Quaker,Grocery,5800.0
+P0048,Corn Flakes,Kelloggs,Grocery,900.0
+P0049,Peanut Butter,Pintola,Grocery,7200.0
+P0050,Protein Bar Box,RiteBite,Grocery,12500.0
