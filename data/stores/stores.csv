@@ -1,0 +1,11 @@
+store_id,store_name,city,state,store_type
+S001,Delhi Central Store,Delhi,Delhi,Retail
+S002,Noida Sector 18 Store,Noida,Uttar Pradesh,Retail
+S003,Gurugram Store,Gurugram,Haryana,Retail
+S004,Mumbai Central Store,Mumbai,Maharashtra,Retail
+S005,Pune Store,Pune,Maharashtra,Retail
+S006,Bengaluru Store,Bengaluru,Karnataka,Retail
+S007,Hyderabad Store,Hyderabad,Telangana,Retail
+S008,Chennai Store,Chennai,Tamil Nadu,Retail
+S009,Kolkata Store,Kolkata,West Bengal,Retail
+S010,Jaipur Store,Jaipur,Rajasthan,Retail
