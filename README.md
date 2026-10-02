@@ -19,7 +19,7 @@ for analytics and visualization**.
 
 ## 🏗️ Architecture
 
-![Customer 360 Architecture](architecture/Customer 360 Data Flow Architecture (1).png)
+![Customer 360 Architecture](./architecture/Customer.png)
 ``` text
                     ┌─────────────────────┐
                     │   Data Sources      │
